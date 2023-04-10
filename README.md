@@ -50,7 +50,9 @@ Measure the relationship between $y_t$ and $y_(t−k)$ after removing the effect
 
 
 
+
 REFERENCE
+
 https://corporatefinanceinstitute.com/resources/knowledge/other/autoregressive-integrated-moving-average-arima/
 
 https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-ee0bc285807a
