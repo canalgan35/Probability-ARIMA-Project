@@ -36,7 +36,9 @@ If we combine Auto Regression and Moving Average, we get a non-seasonal(not stat
 ARIMA (p, d, q)
 
 p- the number of autoregressive terms or the number of lag observations
+
 d- the degree of differencing (how many times the data have to be differenced to make it stationary)
+
 q- the number of forecast errors in the model 
 
 
@@ -59,7 +61,7 @@ p=1, d=1, q=0 known as the differenced first order autoregressive model
 p=0, d=0, q=0 known as the white noise
 
 ACF
-Measure the relationship between $y_t and $y_(t−k)$ for different values of k
+Measure the relationship between $y_t$ and $y_(t−k)$ for different values of k
 
 PACF
 Measure the relationship between $y_t$ and $y_(t−k)$ after removing the effects of lags 1,2,3,…,k−1
