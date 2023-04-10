@@ -1,9 +1,10 @@
 library(forecast)
 library(tseries)
 
-HEPS = read.csv("C:\\Users\\Bertug\\Downloads\\HEPS.csv")
+#download the stock data from Yahoo Finance and import dataset
+HEPS = read.csv("C:\\Users\\Can\\Desktop\\HEPS.csv")
 
-close = HEPS[,5] #interested in on closed price
+close = HEPS[,5] #interested in on closed price to predict future values
 
 plot(close,type='l') #it is not a stationary time series
 
