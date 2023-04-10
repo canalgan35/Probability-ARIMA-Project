@@ -24,7 +24,7 @@ The forecast or outcome of the model depends linearly on the past values.
 Mathematically: It models the current value as a linear combination of the previous q error terms. (εt is white noise)
 
 Box-Jenkins Backshift Operator
-It is defined by B^p.Yt=Y(t-p) where Y1,…,Yt be any time series p<t.
+It is defined by $B^p.Y_t=Y_(t-p)$ where $Y_1,…,Y_t be any time series $p<t$.
 If we combine Auto Regression and Moving Average, we get a non-seasonal(not stationary) model. Integration makes the model seasonal(stationary). 
 ARIMA (p, d, q)
 p- the number of autoregressive terms or the number of lag observations
