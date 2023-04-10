@@ -43,10 +43,10 @@ p=1, d=1, q=0 known as the differenced first order autoregressive model
 p=0, d=0, q=0 known as the white noise
 
 ACF
-Measure the relationship between yt and yt−k for different values of k
+Measure the relationship between $y_t and $y_(t−k)$ for different values of k
 
 PACF
-Measure the relationship between yt and yt−k after removing the effects of lags 1,2,3,…,k−1
+Measure the relationship between $y_t$ and $y_(t−k)$ after removing the effects of lags 1,2,3,…,k−1
 
 
 
