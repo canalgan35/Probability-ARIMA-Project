@@ -52,8 +52,8 @@ If p=0 and d=0, it is MA model (no auto regression and non stationary data)
 If p=0, d=0 and q=0, it is known as “White Noise”
 
 
-**Some Special ARIMA Models
-**
+**Some Special ARIMA Models**
+
 
 p=1, d=0, q=0 known as the first order autoregressive model
 p=0, d=1, q=0 known as the random walk model
