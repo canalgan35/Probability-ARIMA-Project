@@ -6,7 +6,7 @@ Summary of ARIMA
 
 ARIMA: Auto Regressive Integrated Moving Average
 It is a statistical analysis model. ARIMA uses time series data and it is useful:
-1) To understand the data better  
+1)To understand the data better  
 2)To forecast future trends based on past data
 If the time series is stationary, we can look at some parts of them to work on because shifts of the time do not affect shape. Thus, we make the data stationary via differencing them.
 
