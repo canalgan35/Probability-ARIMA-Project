@@ -1,6 +1,6 @@
 # Probability-ARIMA-Project
 
-**Aim of the project:** Predict future value and trends of the stock.
+**Aim of the project:** Predict future values and trends of the stock.
 
 **Summary of ARIMA**
 
